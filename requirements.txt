@@ -1,0 +1,6 @@
+requests
+bs4
+typing
+flask
+pyautogui<0.9.48
+screeninfo
